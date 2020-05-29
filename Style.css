@@ -1,0 +1,40 @@
+/* GENERAL STYLES */
+h4{
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+/* SECTION 5 */
+.section-5{
+    margin: 100px 50px 10px;
+}
+.col{
+    margin: 20px;
+}
+.cad-style{
+    margin: 20px 10px;
+    height: 150px;
+    padding: 50px 20px;
+    border-radius: 5px;
+}
+.cad-style:hover,
+.cad-style:visited{
+    background-color: blueviolet;
+    color:#ffffff; 
+}
+
+/* LAST SECTION  */
+.last-section {
+    background-color: rgba(173, 216, 230, 0.479);
+    padding: 50px 150px 0  50px;
+
+}
+
+.Software-intergrations {
+    margin: 50px;
+}
+.card-2{
+ 
+   padding: 20px 30px;
+   border-radius: 10px;
+}
