@@ -1,5 +1,93 @@
 /* GENERAL STYLES */
 
+
+.one{
+
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+    padding-bottom: 3rem;
+    
+}
+
+
+
+.first_paragraph,
+.second_paragraph{
+
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+.first_paragraph{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+img{
+
+margin-left: 1.5rem;
+margin-right: 1.5rem;
+
+}
+
+.content_all{
+
+margin-top: 2rem;
+padding-right: 5rem;
+padding-left: 2rem;
+}
+
+.my_div1{
+    text-align:center;
+    position:relative;
+    display:inline-block;
+  }
+  
+  #sub-input{
+    /* margin-top:1rem;*/
+     /*margin-left: 1rem;*/
+     /*margin-right:0.9rem;*/
+     padding-left:.8rem;
+     background:whitesmoke;
+     border: .5px solid dodgerblue;
+     border-radius: 25px;
+     width:22.2rem;
+     height:3.2rem;    
+     text-align: center;
+     
+   
+   }
+        #sub-btn {
+    position:absolute;
+    background:dodgerblue;
+    border-radius:20px;
+    padding:.5rem 1rem;
+    right:4%;
+    bottom:17%;
+    color:white;
+    font-weight:700;
+    border:0;
+    cursor:pointer;
+    background-color:#8A2BE2;
+    }
+   
+    .col_1{
+        margin-top: 2rem;
+        margin-left: 1.5rem;
+        margin-right: 1.5rem;
+        margin-bottom: 1rem;
+        padding-left: 1.5rem;
+        padding-right: 1.5rem;
+    }
+
+    .col_2{
+        margin-top: .5rem;
+       padding-bottom: 3.5rem;
+    }
+
+
 .h4{
     font-size: 1.5rem;
     font-weight: 500;
